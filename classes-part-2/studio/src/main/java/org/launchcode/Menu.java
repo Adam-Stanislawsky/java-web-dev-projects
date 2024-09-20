@@ -17,7 +17,10 @@ public class Menu {
     }
 
     public void setItems(ArrayList<MenuItem> items) {
+
         this.items = items;
+
+
     }
 
     public Date getLastUpdated() {
